@@ -1,0 +1,12 @@
+.env
+.env.*
+*.pem
+data/
+.venv/
+__pycache__/
+
+.DS_Store
+scaffold-archive.zip
+strip.json
+paper/data/
+!.env.example
